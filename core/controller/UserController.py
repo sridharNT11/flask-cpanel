@@ -22,8 +22,3 @@ def home():
 @app.route('/list')
 def home():
 	return "list page"
-
-
-@app.route('/list 2')
-def home():
-	return "list page 2"
