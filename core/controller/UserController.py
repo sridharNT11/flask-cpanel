@@ -24,6 +24,6 @@ def home():
 	return "list page"
 
 
-@app.route('/list 2')
+@app.route('/list new')
 def home():
-	return "list page 2"
+	return "list page new"
