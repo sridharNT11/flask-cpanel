@@ -17,3 +17,8 @@ def index():
 @app.route('/home')
 def home():
 	return "welcome home page"
+
+
+@app.route('/list')
+def home():
+	return "list page"
